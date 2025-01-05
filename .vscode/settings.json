@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "barrier": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "latch": "cpp",
+        "limits": "cpp",
+        "semaphore": "cpp",
+        "valarray": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "array": "cpp",
+        "iostream": "cpp"
+    }
+}
